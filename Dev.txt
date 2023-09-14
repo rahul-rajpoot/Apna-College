@@ -1,0 +1,5 @@
+React development Some command
+
+My fisrt college is bisalpur
+
+npx react-native run-android --variant=release
